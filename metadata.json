@@ -1,0 +1,10 @@
+{
+  "name": "AirRacer AI",
+  "description": "An interactive gesture-controlled racing game. Play in the browser using your webcam and MediaPipe hand-tracking, and view or download the fully production-ready Python + Pygame + OpenCV + MediaPipe repository.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
